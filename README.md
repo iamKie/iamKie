@@ -1,8 +1,8 @@
-# G'day 
+# G'day :leaves:
 
-I'm alf. I've been programming for a while now, and really love it!.
+I'm Alf. I've been programming for a while now, and really love it!.
 
-My main project right now is Cypher Clienr, a new minecraft pvp client with a bunch of essential mods and an fps boost. 
+My main project right now is Cypher Client, a new minecraft pvp client with a bunch of essential mods and an fps boost. 
 Check us out at https://cypherclient.carrd.co
 
 
