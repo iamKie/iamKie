@@ -1,4 +1,4 @@
-# G'day :leaves:
+# G'day :evergreen_tree:
 
 I'm Ohkie. I've been programming for a while now, and really love it!.
 
