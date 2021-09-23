@@ -2,7 +2,7 @@
 
 I'm Kie. I've been programming for a while now, and really love it!.
 
-My main project right now is Space Ox, a fast paced FPS game based on the moon.
+My main project right now is SpaceOps, a fast paced FPS game based on the moon.
 Check us out https://discord.gg/XAjs2MQmWC
 
 
