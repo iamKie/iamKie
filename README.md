@@ -1,12 +1,11 @@
 # Hi :wave:
 
-I'm Kie. I've been programming for a while now, and really love it!.
+I'm ohkie. I've been programming on and off for a while now, and really love it!.
 
-My main project right now is SpaceOps, a fast paced FPS game based on the moon.
-Check us out https://discord.gg/XAjs2MQmWC
+I don't have any big projects I'm working on right now, but feel free to check out my repositories.
 
-
-Discord: Ohkie#0009
+My DM's are always open if you have any questions or just wanna chat!
+Discord: ohkie
 
 ![iamKie's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamKie&show_icons=true&theme=vision-friendly-dark)
 
