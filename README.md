@@ -8,8 +8,8 @@ My DM's are always open if you have any questions or just wanna chat!
 
 Discord: ohkie
 
-![iamKie's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamKie&show_icons=true&theme=vision-friendly-dark)
+![iamKie's Stats](https://github-readme-stats.vercel.app/api?username=iamKie&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamKie&theme=vision-friendly-dark)
+![iamKie's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamKie&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
